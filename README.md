@@ -3,7 +3,7 @@
 </h1>
 
 Hola, soy Matias Repetto un estudiante de **Ingeniería en Computación (FING)** y **Licenciatura en Astronomía (FCIEN)** en la Universidad de la Republica, en mi tiempo libre me gusta hacer proyectos personales para poder desarrollarme en areas de conocimiento de mi interés.
-Interesado en : **Astro-informática**, **Data Science**, **Backend**, **Flight Systems Development**, **Algorithms**, **Machine Learning** and **Game Development**
+Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Systems Development**, **Algorithms**, **Machine Learning** and **Game Development**
 
 <br>
 
