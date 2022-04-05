@@ -9,12 +9,12 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 <br>
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-c++-260000?style=for-the-badge&logo=c%2B%2B&logoColor=d1a01f&labelColor=c58545">
-  <img src="https://img.shields.io/badge/-octave-260000?style=for-the-badge&logo=octave&logoColor=d1a01f&labelColor=c58545">
-  <img src="https://img.shields.io/badge/-c-260000?style=for-the-badge&logo=c&logoColor=d1a01f&labelColor=c58545">
-  <img src="https://img.shields.io/badge/-.net-260000?style=for-the-badge&logo=.net&logoColor=d1a01f&labelColor=c58545">
-  <img src="https://img.shields.io/badge/-Ruby-260000?style=for-the-badge&logo=ruby&logoColor=d1a01f&labelColor=c58545">
-  <img src="https://img.shields.io/badge/-Python-260000?style=for-the-badge&logo=python&logoColor=d1a01f&labelColor=c58545">
+  <img src="https://img.shields.io/badge/-c++-260000?style=for-the-badge&logo=c%2B%2B&logoColor=d1a01f&labelColor=260000">
+  <img src="https://img.shields.io/badge/-octave-260000?style=for-the-badge&logo=octave&logoColor=d1a01f&labelColor=260000">
+  <img src="https://img.shields.io/badge/-c-260000?style=for-the-badge&logo=c&logoColor=d1a01f&labelColor=260000">
+  <img src="https://img.shields.io/badge/-.net-260000?style=for-the-badge&logo=.net&logoColor=d1a01f&labelColor=260000">
+  <img src="https://img.shields.io/badge/-Ruby-260000?style=for-the-badge&logo=ruby&logoColor=d1a01f&labelColor=260000">
+  <img src="https://img.shields.io/badge/-Python-260000?style=for-the-badge&logo=python&logoColor=d1a01f&labelColor=260000">
 </div>
 </p>
 <br/>
