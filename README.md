@@ -34,6 +34,6 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 </p>
 <br>
 
-![Matias Repetto ActivityGraph](https://activity-graph.herokuapp.com/graph?username=MatiasRepetto&custom_title=Matias%20Repetto%20Zecchi's%20Contribution%20Graph&theme=gruvbox&bg_color=F7EF8A&hide_border=false&line=E0AA3E&point=c58545)
+![Matias Repetto ActivityGraph](https://activity-graph.herokuapp.com/graph?username=MatiasRepetto&custom_title=Matias%20Repetto%20Zecchi's%20Contribution%20Graph&theme=gruvbox&bg_color=260000&hide_border=false&line=F7EF8A&point=c58545)
 
 ------
