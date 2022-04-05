@@ -28,12 +28,12 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 
 <p align="left">
   <a href="https://matiasrepetto.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MatiasRepetto&show_icons=true&theme=maroongold&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasRepetto&theme=maroongold&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MatiasRepetto&show_icons=true&theme=maroongold&hide_border=false" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasRepetto&theme=maroongold&hide_border=false" />
   </a>
 </p>
 <br>
 
-![Matias Repetto ActivityGraph](https://activity-graph.herokuapp.com/graph?username=MatiasRepetto&custom_title=Matias%20Repetto%20Zecchi's%20Contribution%20Graph&theme=gruvbox&bg_color=231205&hide_border=true&line=783F04&point=c58545)
+![Matias Repetto ActivityGraph](https://activity-graph.herokuapp.com/graph?username=MatiasRepetto&custom_title=Matias%20Repetto%20Zecchi's%20Contribution%20Graph&theme=gruvbox&bg_color=231205&hide_border=false&line=783F04&point=c58545)
 
 ------
