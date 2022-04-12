@@ -10,7 +10,7 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-c++-0a0f0b?style=for-the-badge&logo=c%2B%2B&logoColor=abd200&labelColor=0a0f0b">
-  <img src="https://img.shields.io/badge/-c#-0a0f0b?style=for-the-badge&logo=c#logoColor=abd200&labelColor=0a0f0b">
+  <img src="https://img.shields.io/badge/-C%23-0a0f0b?style=for-the-badge&logo=c-sharplogoColor=abd200&labelColor=0a0f0b">
   <img src="https://img.shields.io/badge/-octave-0a0f0b?style=for-the-badge&logo=octave&logoColor=abd200&labelColor=0a0f0b">
   <img src="https://img.shields.io/badge/-NodeJs-0a0f0b?style=for-the-badge&logo=node.js&logoColor=abd200&labelColor=0a0f0b">
   <img src="https://img.shields.io/badge/-c-0a0f0b?style=for-the-badge&logo=c&logoColor=abd200&labelColor=0a0f0b">
