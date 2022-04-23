@@ -20,23 +20,4 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
   <img src="https://img.shields.io/badge/-Lua-0a0f0b?style=for-the-badge&logo=lua&logoColor=abd200&labelColor=0a0f0b">
 </div>
 </p>
-<br/>
-<p align="center">
-  <a href="https://matiasrepetto.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRepetto&layout=compact&theme=merko&langs_count=10" />
-  </a>
-</p>
-
------
-
-<p align="left">
-  <a href="https://matiasrepetto.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=MatiasRepetto&show_icons=true&theme=merko&hide_border=false" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasRepetto&theme=merko&hide_border=false" />
-  </a>
-</p>
-<br>
-
-![Matias Repetto ActivityGraph](https://activity-graph.herokuapp.com/graph?username=MatiasRepetto&custom_title=Matias%20Repetto%20Zecchi's%20Contribution%20Graph&theme=merko&bg_color=0a0f0b&hide_border=false&line=abd200&point=abd200)
-
-------
+</br>
