@@ -10,7 +10,7 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-c++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=000000&labelColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-Java-FFFFFF?style=for-the-badge&logo=java&logoColor=000000&labelColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Apex-FFFFFF?style=for-the-badge&logo=apex&logoColor=000000&labelColor=FFFFFF">
   <img src="https://img.shields.io/badge/-c-FFFFFF?style=for-the-badge&logo=c&logoColor=000000&labelColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Python-FFFFFF?style=for-the-badge&logo=python&logoColor=000000&labelColor=FFFFFF">
   <img src="https://img.shields.io/badge/-octave-FFFFFF?style=for-the-badge&logo=octave&logoColor=000000&labelColor=FFFFFF">
