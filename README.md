@@ -7,7 +7,7 @@ Interesado en : **Astroinformatics**, **Data Science**, **Backend**, **Flight Sy
 
 <p align="center">
   <a href="https://matiasrepetto.github.io/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRepetto&layout=compact&langs_count=10" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiasRepetto&theme=great-gatsby&layout=compact&langs_count=10" />
   </a>
 </p>
 
