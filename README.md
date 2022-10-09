@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>### Matias Repetto Zecchi</b>
+  <b>Matias Repetto Zecchi</b>
 </h1>
 
 ### Hola, soy Matias Repetto un estudiante de **Ingeniería en Computación (FING)** y **Licenciatura en Astronomía (FCIEN)** en la Universidad de la Republica, en mi ### tiempo libre me gusta hacer proyectos personales para poder desarrollarme en areas de conocimiento de mi interés.
