@@ -1,22 +1,35 @@
-<h1 align="center">
-  <b>Matias Repetto Zecchi</b>
-</h1>
+## Introduction
 
 Hello, I am Matias Repetto, a student of Computer Engineering (FING) and Astronomy (FCIEN) at the University of the Republic. In my free time, I enjoy working on personal projects to further my knowledge in areas of interest.
 
-I am interested in: Blockchain Development, Reverse Engineering, Backend, Flight Systems Development, Algorithms, and Game Development.
+## Interests
 
-Languages that I like the most 🛠...
+I am passionate about various fields:
 
-<div align="center">
-<img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
-<img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="c" />
-<img src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white" alt="csharp" />
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua&logoColor=white" alt="lua" />
-<img src="https://img.shields.io/badge/Shell_Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="shell_script" />
-<img src="https://img.shields.io/badge/Octave-000000?style=for-the-badge&logo=octave&logoColor=white" alt="octave" />
-<img src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white" alt=".net" />
-</div>
+- **Blockchain Development**
+- **Reverse Engineering**
+- **Backend Development**
+- **Flight Systems Development**
+- **Algorithms**
+- **Game Development**
 
------
+## Preferred Programming Languages
+
+1. **C++**
+   - Known for its high performance and versatility, C++ is one of my favorite languages. I appreciate its ability to handle low-level programming as well as object-oriented features.
+
+2. **C**
+   - As a fundamental language, C has a special place in my heart. Its simplicity and efficiency make it a powerful tool for system-level programming and embedded systems.
+
+3. **C#**
+   - With a focus on simplicity and productivity, C# is a language I enjoy, especially for Windows application development and game development using the Unity engine.
+
+4. **Java**
+   - Java's portability and widespread use make it a valuable language for various applications, from enterprise-level systems to Android app development.
+
+5. **Lua**
+   - Lua's lightweight design and embeddability make it a fascinating language, particularly for scripting in game development and other applications where a small, efficient scripting language is beneficial.
+
+## Connect with Me
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151) and [Steam](https://steamcommunity.com/id/snipcout/). Let's collaborate and learn together!
