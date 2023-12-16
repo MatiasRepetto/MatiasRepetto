@@ -6,12 +6,12 @@ Hello, I am Matias Repetto, a student of Computer Engineering (FING) and Astrono
 
 I am passionate about various fields:
 
+- **Game Modding**
+- **Game Development**
 - **Blockchain Development**
 - **Reverse Engineering**
-- **Backend Development**
-- **Flight Systems Development**
 - **Algorithms**
-- **Game Development**
+- **Flight Systems Development**
 
 ## Preferred Programming Languages
 
