@@ -32,4 +32,22 @@ I am passionate about various fields:
 
 ## Connect with Me
 
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  [LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151)!    |  |  |     |         |      |
+     |  |  Bad command or |  |  |/----|`---=    |      |
+     |  |  [Steam](https://steamcommunity.com/id/snipcout/)          |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"     
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+`-----------------------------'
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151) and [Steam](https://steamcommunity.com/id/snipcout/). Let's collaborate and learn together!
