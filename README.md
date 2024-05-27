@@ -21,10 +21,10 @@ I am passionate about various fields:
          !...:!TVBBBRPFT||||||||||!!^^""'   ||||
          !.......:!?|||||!!^^""'            ||||
          !.........||||                     ||||
-         !.........||||  ##$>MRZ            ||||                  Feel free to connect with me on 
-         !.........||||                     ||||                  ```[Steam](https://steamcommunity.com/id/snipcout/)``` and
-         !.........||||                     ||||                  ```[LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151)```
-         !.........||||                     ||||                  Let's collaborate and learntogether!
+         !.........||||  ##$>MRZ            ||||                  
+         !.........||||                     ||||                  
+         !.........||||                     ||||                  
+         !.........||||                     ||||                  
          !.........||||                     ||||
          `.........||||                    ,||||
           .;.......||||               _.-!!|||||
@@ -46,4 +46,7 @@ I am passionate about various fields:
                     `!9899fT|!^"'
                       `!^"'
 ```
-
+Feel free to connect with me on 
+[Steam](https://steamcommunity.com/id/snipcout/) and
+[LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151)
+Let's collaborate and learntogether!
