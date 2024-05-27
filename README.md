@@ -14,7 +14,7 @@ I am passionate about various fields:
 - **Flight Systems Development**
   
 ## Connect with Me
-
+'''
                        .,,uod8B8bou,,.
               ..,uod8BBBBBBBBBBBBBBBBRPFT?l!i:.
          ,=m8BBBBBBBBBBBBBBBRPFT?!||||||||||||||
@@ -45,5 +45,5 @@ I am passionate about various fields:
                   `!988888888899fT|!^"'
                     `!9899fT|!^"'
                       `!^"'
-
+'''
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/matias-repetto-zecchi-52940a151) and [Steam](https://steamcommunity.com/id/snipcout/). Let's collaborate and learn together!
